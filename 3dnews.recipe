@@ -13,7 +13,7 @@ class News(BasicNewsRecipe):
     publisher = '3DNews'
     category = 'news'
     cover_url = 'http://www.3dnews.ru/assets/images/logo.png'
-    language = 'ru'
+    language = 'zh-CN'
     auto_cleanup = True
 
     oldest_article = 15
